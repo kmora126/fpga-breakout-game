@@ -1,0 +1,7 @@
+1. Choose your device name (Cyclone IV E)
+2. Import the assignments (csv file)
+3. Upload all of the rest of the files in the folder (all the sv files)
+4. Compile
+5. Make breakout_top the top file (Go into Project, Add/remove files, and then General)
+6. Compile
+7. Go into programmer and upload into the board
