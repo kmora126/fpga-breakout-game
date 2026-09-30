@@ -16,7 +16,3 @@ src/
 │   ├── game_demo.png
 │   ├── block_diagram.png
 │   └── fsm_diagram.png
-│
-└── docs/
-    ├── project_report.pdf
-    └── presentation.pdf
